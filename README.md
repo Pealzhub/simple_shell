@@ -1,0 +1,1 @@
+This waz a project done by me and Rebbeccah Morara from kenya. it is a project designed for us developer to master and be able to write our own shell.I created the repository and added Rebeccah as a contributor to this project as it is a joint work.
